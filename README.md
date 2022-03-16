@@ -1,2 +1,2 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+https://svt1108.github.io/rsschool-cv/cv
