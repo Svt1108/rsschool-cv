@@ -1,5 +1,5 @@
 # Svetlana Pozina 
- ### **Contacts**
+### **Contacts**
 
 Telegram: *@Altraestate*
 
@@ -30,6 +30,7 @@ ___
 *Programming:* SQL, PHP, HTML, CSS 
 
 *Design:* Figma, Photoshop, Adobe Illustrator, Canva
+
 ___
 
 ### **Code example**
