@@ -3,8 +3,6 @@
 
 Telegram: *@Altraestate*
 
-E-mail: *svt_1108@inbox.ru*
-
 Discord: *Svetlana Pozina (@svt1108)*
 
 ___
