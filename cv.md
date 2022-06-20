@@ -1,47 +1,48 @@
-# Svetlana Pozina 
+# Svetlana Pozina
+
 ### **Contacts**
 
-Telegram: *@Altraestate*
+Telegram: _@Altraestate_
 
-Discord: *Svetlana Pozina (@svt1108)*
+Discord: _Svetlana Pozina (@svt1108)_
 
-___
+---
 
 ### **About me**
 
-I learned information security at the Polytechnic University in St. Petersburg. After university, I worked as a programmer and database administrator. Also I serviced a local network of 30 computers. 
+I learned information security at the Polytechnic University in St. Petersburg. After university, I worked as a programmer and database administrator. Also I serviced a local network of 30 computers.
 
-After a few years, I became interested in design. I finished some courses in design theory and web design. I worked on the creation of the company's internal website. 
+After a few years, I became interested in design. I finished some courses in design theory and web design. I worked on the creation of the company's internal website.
 
-I'm studying foreign languages: Italian, Spanish, English. 
+I'm studying foreign languages: Italian, Spanish, English.
 
 I am interested in working for foreign companies and customers, because it's an opportunity to develop in the field of web design and web programming, and also in the language field.
 
-___
+---
 
 ### **My skills**
 
-*Databases:* MS SQL, MySQL
+_Databases:_ MS SQL, MySQL
 
-*Information security:* DLP-systems, network scaners, antivirus software, personal data security
+_Information security:_ DLP-systems, network scaners, antivirus software, personal data security
 
-*Programming:* SQL, PHP, HTML, CSS 
+_Programming:_ SQL, PHP, HTML, CSS
 
-*Design:* Figma, Photoshop, Adobe Illustrator, Canva
+_Design:_ Figma, Photoshop, Adobe Illustrator, Canva
 
-___
+---
 
 ### **Code example**
 
 Filter for MySQL phone database in based on html form:
 
-> elseif( isset( $_POST['submit1'] )) 
+> elseif( isset( $\_POST['submit1'] ))
 >
 > {
 >
 > $filtr='%';
 >
-> $result = mysql_query("select * from PhonePeople UNION select * from PhoneNonTab order by LastName, Name, MidlName  ", $db);
+> $result = mysql_query("select _ from PhonePeople UNION select _ from PhoneNonTab order by LastName, Name, MidlName ", $db);
 >
 > $numrows = mysql_num_rows($result);
 >
@@ -51,13 +52,13 @@ Filter for MySQL phone database in based on html form:
 >
 > {
 >
-> $result = mysql_query("select * from PhonePeople UNION select * from PhoneNonTab order by LastName, Name, MidlName  ", $db);
+> $result = mysql_query("select _ from PhonePeople UNION select _ from PhoneNonTab order by LastName, Name, MidlName ", $db);
 >
->$numrows = mysql_num_rows($result);
+> $numrows = mysql_num_rows($result);
 >
->}
+> }
 
-___
+---
 
 ### **Work experience**
 
@@ -65,11 +66,13 @@ ___
 - Information security specialist
 - Graphic web designer
 
-___
+---
+
 ### **Education**
+
 St. Petersburg's Polytechnic University, information security
 
-*Courses:*
+_Courses:_
 
 - Web programming using PHP and MySQL
 - Web site developing. Adobe Dreamweaver
@@ -77,10 +80,14 @@ St. Petersburg's Polytechnic University, information security
 - Text writing for an educational products, sites and presentation
 - Image and design theory
 
-___
+---
+
 ### **Languages**
+
 Italian - C1
 
 English - B1
 
 Spanish - A2
+
+EF SET Certificate: https://www.efset.org/cert/xeUeaJ
